@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #d6d6d6;
+    background-color: #e8e292;
 }
 
 h1 {
@@ -32,15 +32,15 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.lebesgue>h2 {
+section.rahman>h2 {
     background-color: #76b8db;
 }
 
-section.fubini>h2 {
+section.hussain>h2 {
     background-color: #4f7acd;
 }
 
-section.luzin>h2 {
+section.khan>h2 {
     color: #e2e2e2;
     background-color: #10328a;
 }
