@@ -2,14 +2,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: #d83030;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #e1b517;
     border-radius: 0;
     border: 0;
 }
@@ -41,7 +41,7 @@ body {
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #fe9797;
+    text-shadow: 1px 1px 1px white;
 }
 
 #nav-list {
@@ -88,8 +88,8 @@ body {
 }
 
 #main-section {
-    background-color: #82d06b;
-    box-shadow: 0 0 50px #0f5900;
+    background-color: #8ef9f4;
+    box-shadow: 0 0 50px #0b1a53c7;
     padding: 30px;
 }
 
